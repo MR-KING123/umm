@@ -1,0 +1,40 @@
+#hm{
+    text-align: center;
+    color: blue;
+    background-color: gold;
+}
+html{
+    background-color: aquamarine;
+}
+#pp{
+    font-family: cursive;
+    font-size: larger;
+}
+#img{
+    width: 20cm;
+}
+#a{
+    font-size: 80px;
+}
+#sexy{
+    font-size: 50px;
+    color:red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#h3{
+    text-align: right;
+    color: blue;
+    font-size: larger;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+#ded{
+    color: chocolate;
+    background-color: darkblue;
+}
+#ol{
+    font-size: larger;
+    color: darkorange;
+    font-family: monospace;
+}
+
